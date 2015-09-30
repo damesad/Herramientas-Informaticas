@@ -68,7 +68,7 @@ section {
 }
 /*end menu-nav */
 
-.img {
+img {
     width: 100%;
 }
 
@@ -151,3 +151,7 @@ i{
  i.fa-commenting{
      color: white;
  }
+ 
+ol#contenido {
+    list-style: none;
+}
